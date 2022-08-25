@@ -10,6 +10,12 @@ tickers = pyfnguide.fetch_tickers()
 
 ## 팩터
 
+```
+import pyfnguide
+유동자산 = pyfnguide.fetch_current_assets("A005930")
+```
+
+
 | 팩터 | 함수 | 전략 |
 |-----|-----|-----|
 | 유동자산 | `fetch_current_assets("A005930")` | NCAV |
