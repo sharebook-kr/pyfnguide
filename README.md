@@ -16,7 +16,7 @@ import pyfnguide
 ```
 
 
-| 팩터 | 함수 | 전략 |
+| 지표 | 함수 | 사용되는 전략 |
 |-----|-----|-----|
 | 유동자산 | `fetch_current_assets("A005930")` | NCAV |
 | 총부채 | `fetch_liabilities("A005930")` | NCAV |
